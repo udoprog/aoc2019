@@ -1,4 +1,4 @@
-# Solutions to Advent of Code 2019 in Rust
+# Idiomatic Solutions to Advent of Code 2019 in Rust
 
 Find puzzles here: http://adventofcode.com/2019
 

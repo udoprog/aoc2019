@@ -8,6 +8,7 @@ pub use std::collections::{btree_map, btree_set, BTreeMap, BTreeSet, VecDeque};
 pub use std::io::{BufRead, BufReader};
 use std::ops;
 pub use std::str;
+pub use thiserror::Error;
 
 /// Get the input as a string.
 #[macro_export]
